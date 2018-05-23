@@ -1,0 +1,1 @@
+Perform traffic forecasting on live traffic data, using techniques like ARIMA and Dickey-Fuller Test: (stationarity check). Aim to identify trends, seasonality.
